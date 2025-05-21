@@ -25,9 +25,8 @@ https://my-restaurant-frontend-5hc3.onrender.com/
 
 
 ## 🌐 You Can Find Me At:
-- Contactnumber : 00966-546343458 
+- Contactnumber : +966546343458 
 - Email: sheikhawaab@gmail.com
-- betahoney4@gmail.com
 
 ## 🚀 Let's Connect!
 Feel free to reach out if you want to collaborate, share ideas, or just have a tech-related conversation!
