@@ -15,9 +15,11 @@ I'm a passionate web developer currently learning the **MERN stack** (MongoDB, E
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
-- **Tools**: VS Code, Postman, Tailwind, aws
+- **Tools**: VS Code, Postman, Tailwind, aws, Cloudinary, 
 
 ## 📂 Some of My Projects:
+https://awab.vercel.app/
+https://my-restaurant-frontend-5hc3.onrender.com/
 - [Smirky](soon it will be onair) - A brief description.
 - [Elegancy](soon it will be onair) - A brief description.
 
@@ -25,6 +27,7 @@ I'm a passionate web developer currently learning the **MERN stack** (MongoDB, E
 ## 🌐 You Can Find Me At:
 - Contactnumber : 00966-546343458 
 - Email: sheikhawaab@gmail.com
+- betahoney4@gmail.com
 
 ## 🚀 Let's Connect!
 Feel free to reach out if you want to collaborate, share ideas, or just have a tech-related conversation!
